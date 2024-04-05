@@ -8,3 +8,10 @@ To get started with the Semantic Routing System, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/yourusername/semantic-routing-system.git](https://github.com/itsbsy/semantic-routing-setup)
+2. **Install all dependicies:**
+   ```bash
+   pip install -r requirements.txt
+13. **Start server**
+   ```bash
+   python main.py
+   
