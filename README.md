@@ -11,7 +11,7 @@ To get started with the Semantic Routing System, follow these steps:
 2. **Install all dependicies:**
    ```bash
    pip install -r requirements.txt
-13. **Start server**
+3. **Start server**
    ```bash
    python main.py
    
